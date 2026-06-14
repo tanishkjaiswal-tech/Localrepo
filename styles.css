@@ -1,0 +1,20 @@
+p {
+    color: rgb(239, 255, 11);
+    text-align: center;
+}
+
+background {
+    background-color: #357ee5;
+    color: #eef4ff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+body {
+    background-color: #16681e;
+    color: #eef4ff;
+    font-family: 'Arial', sans-serif;
+    margin: 0;
+    padding: 0;
+}
